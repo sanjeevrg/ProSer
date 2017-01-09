@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "serviceName": "Electrician",
+      "serviceDesc": "Fixes electrical issues"
+  },{
+  	"serviceName": "Plumber",
+      "serviceDesc": "Fixes plumbing issues"
+  }
+]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "sr_user": "User1",
+      "sr_rating": "",
+      "sr_status":"open",
+      "sr_payment":""
+  },{
+  	"sr_user": "User2",
+      "sr_rating": "",
+      "sr_status":"open",
+      "sr_payment":""
+  },{
+  	"sr_user": "User3",
+      "sr_rating": "**",
+      "sr_status":"closed",
+      "sr_payment":"ByCash"
+  },{
+  	"sr_user": "User4",
+      "sr_rating": "****",
+      "sr_status":"closed",
+      "sr_payment":"ByCash"
+  }
+]
+}

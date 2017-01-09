@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "serviceProviderName": "Vismay Electrician",
+      "serviceProviderAddr": "Jaynagar",
+      "serviceProviderRating": "***"
+  },{
+  	"serviceProviderName": "Chinmay Electrician",
+      "serviceProviderAddr": "Marathalli",
+      "serviceProviderRating": "**"
+  },{
+  	"serviceProviderName": "Chiddu Electrician",
+      "serviceProviderAddr": "MG Road",
+      "serviceProviderRating": "****"
+  },{
+  	"serviceProviderName": "Satish Electrician",
+      "serviceProviderAddr": "Jaynagar",
+      "serviceProviderRating": "****"
+  }
+]
+}
